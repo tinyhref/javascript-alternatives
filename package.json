@@ -1,0 +1,22 @@
+{
+  "name": "javascript-alternatives",
+  "version": "0.0.0",
+  "description": "A curated collection of the best alternatives to JavaScript from tinyhref.com",
+  "keywords": [
+    "javascript-alternatives",
+    "alternative",
+    "awesome",
+    "lists",
+    "tinyhref",
+    "javascript"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "tinyhref.com",
+    "website": "https://tinyhref.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinyhref/javascript-alternatives"
+  }
+}
